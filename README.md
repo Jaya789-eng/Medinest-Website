@@ -28,27 +28,29 @@ Medinest is a full-stack **E-Commerce Web Application** designed for selling and
 
 ## 📁 Folder Structure
 
+```
 Medinest/
-├── client/ # React Frontend
-│ ├── public/
-│ └── src/
-│ ├── assets/ # Images, logos
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Page-level components
-│ ├── redux/ # Redux store, actions
-│ ├── App.js
-│ └── index.js
-├── server/ # Express Backend
-│ ├── controllers/ # Route controllers
-│ ├── models/ # Mongoose models
-│ ├── routes/ # Express routes
-│ ├── middleware/ # Auth, error handling
-│ ├── .env
-│ └── server.js
+├── client/                 # React Frontend
+│   ├── public/
+│   └── src/
+│       ├── assets/         # Images, logos
+│       ├── components/     # Reusable UI components
+│       ├── pages/          # Page-level components
+│       ├── redux/          # Redux store, actions
+│       ├── App.js
+│       └── index.js
+├── server/                 # Express Backend
+│   ├── controllers/        # Route controllers
+│   ├── models/             # Mongoose models
+│   ├── routes/             # Express routes
+│   ├── middleware/         # Auth, error handling
+│   ├── .env
+│   └── server.js
 ├── .gitignore
 ├── package.json
 └── README.md
----
+```
+
 
 ## 🔑 Features
 
