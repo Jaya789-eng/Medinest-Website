@@ -69,44 +69,44 @@ Medinest/
 
 ## 💻 Installation
 
-### Clone the repository
+###1 Clone the repository
 
 ```bash
 git clone <repository url>
 cd medinest-website
 
-Set up environment variables:
-Create a .env file in the server/ and client/ folders with appropriate keys like:
-
-MONGO_URI
-
-JWT_SECRET
-
-CLOUDINARY_API_KEY
-
-STRIPE_SECRET_KEY
-
-Install dependencies:
-
-bash
-Copy
-Edit
-cd client
-npm install
-cd ../server
-npm install
-Run the development server:
-
-bash
-Copy
-Edit
-# In one terminal
+2. Install Dependencies
+# Install server dependencies
 cd server
-npm run dev
+npm install
 
-# In another terminal
-cd client
+# Install client dependencies
+cd ../client
+npm install
+
+# Install admin-panel dependencies
+cd ../admin-panel
+npm install
+
+3. Configure Environment Variables
+PORT=5000
+MONGO_URI=your_mongo_connection_string
+JWT_SECRET=your_jwt_secret
+
+4. Run the Application
+# Start the backend server
+cd server
 npm start
+
+# Start the frontend client
+cd ../client
+npm start
+
+# Start the admin panel
+cd ../admin-panel
+npm start
+
+---
 🧩 Future Enhancements
 Add real-time chat between users and pharmacists
 
@@ -115,10 +115,11 @@ Implement product subscription and reminders
 Multi-language support
 
 AI-based medicine recommendation system
+---
 
 🙋‍♂️ Author
 Jaya – GitHub Profile
-
+ ---
 📝 License
 This project is licensed under the MIT License.
 
