@@ -69,7 +69,7 @@ Medinest/
 
 ## 💻 Installation
 
-###1 Clone the repository
+1 Clone the repository
 
 ```bash
 git clone <repository url>
@@ -107,7 +107,7 @@ cd ../admin-panel
 npm start
 
 ---
-🧩 Future Enhancements
+###🧩 Future Enhancements
 Add real-time chat between users and pharmacists
 
 Implement product subscription and reminders
@@ -117,10 +117,10 @@ Multi-language support
 AI-based medicine recommendation system
 ---
 
-🙋‍♂️ Author
+###🙋‍♂️ Author
 Jaya – GitHub Profile
  ---
-📝 License
+###📝 License
 This project is licensed under the MIT License.
 
 
