@@ -139,20 +139,24 @@ npm start
 ```
 
 ---
-###🧩 Future Enhancements
-Add real-time chat between users and pharmacists
+## 🧩 Future Enhancements
 
-Implement product subscription and reminders
+- Add real-time chat between users and pharmacists  
+- Implement product subscription and reminders  
+- Multi-language support  
+- AI-based medicine recommendation system  
 
-Multi-language support
+---
 
-AI-based medicine recommendation system
+## 🙋‍♂️ Author
 
+**Jaya** – [GitHub Profile](https://github.com/Jaya789-eng)
 
-###🙋‍♂️ Author
-Jaya – GitHub Profile
- 
-###📝 License
-This project is licensed under the MIT License.
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 
 
