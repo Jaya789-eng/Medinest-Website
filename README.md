@@ -69,10 +69,6 @@ Medinest/
 
 ---
 
-Here’s a clean and complete **README file section** with a **separate "Installation" section** for your Medinest website (built with MERN stack and admin panel):
-
----
-
 ## 💻 Installation Guide
 
 Follow these steps to set up and run the Medinest E-Commerce project on your local machine.
@@ -151,11 +147,11 @@ Implement product subscription and reminders
 Multi-language support
 
 AI-based medicine recommendation system
----
+
 
 ###🙋‍♂️ Author
 Jaya – GitHub Profile
- ---
+ 
 ###📝 License
 This project is licensed under the MIT License.
 
